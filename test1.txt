@@ -7,8 +7,5 @@ Git is a distributed version control system.
 Git has a mutable index called stage of files.
 hello
 hi
-<<<<<<< HEAD
 Creating new.
-=======
-Creating a new branch.
->>>>>>> feature1
+
